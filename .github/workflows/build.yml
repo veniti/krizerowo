@@ -58,5 +58,5 @@ jobs:
         server: serwer2573644.home.pl
         username: gha@kriżerowo.pl
         password: ${{ secrets.ftp_password }}
-        server-dir: public_html/Kriżerowo/
+        server-dir: public_html/
 
