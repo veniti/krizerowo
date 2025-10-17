@@ -9,7 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <div class="wrapper">
         <h2>Monika Kriże</h2>
   <br>
-  <h3>księgowa twoich marzeń</h3>
+  <h3><s>księgowa<s> programistka twoich marzeń</h3>
     </div>
     
   </header>
