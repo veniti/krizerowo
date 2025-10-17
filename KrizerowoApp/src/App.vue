@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import TheWelcome from './components/TheWelcome.vue'
+import InfoPage from './components/InfoPage.vue'
 </script>
 
 <template>
@@ -16,7 +16,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
   <main>
 
-    <TheWelcome />
+    <InfoPage />
   </main>
 </template>
 
