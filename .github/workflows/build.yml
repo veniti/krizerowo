@@ -56,6 +56,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.6
       with:
         server: serwer2573644.home.pl
-        username: 'gha@(we wszystkich domenach)''
+        username: 'gha@(we wszystkich domenach)'
         password: ${{ secrets.ftp_password }}
 
